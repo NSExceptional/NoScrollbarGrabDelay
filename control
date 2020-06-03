@@ -1,0 +1,10 @@
+Package: com.nscake.noscrollbargrabdelay
+Name: NoScrollbarGrabDelay
+Pre-Depends: firmware (>= 13.0)
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Removes the delay when trying to drag a scroll bar.
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Author: Tanner Bennett <thepantsthief@me.com>
+Section: Tweaks
